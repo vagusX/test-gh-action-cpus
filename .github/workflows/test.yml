@@ -23,6 +23,7 @@ jobs:
 
     - name: CPU Core Count
       uses: SimenB/github-actions-cpu-cores@v1
+      id: cpu-cores
 
     - name: Build & Test
       run: |
