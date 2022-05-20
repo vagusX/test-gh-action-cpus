@@ -1,0 +1,20 @@
+{
+  "name": "test-gh-action-cpus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vagusX/test-gh-action-cpus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vagusX/test-gh-action-cpus/issues"
+  },
+  "homepage": "https://github.com/vagusX/test-gh-action-cpus#readme"
+}
